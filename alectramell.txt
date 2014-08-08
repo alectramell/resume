@@ -1,0 +1,44 @@
+
+Alec Tramell, DMA | Updated 2014
+==================================================================================
+
+CONTACT
+==================================================================================
+Phone: (801) 893-1187
+E-Mail: alectramell@gmail.com
+
+SUMMARY
+==================================================================================
+Programming:
+HTML, JavaScript, CGI, Python, Java, Terminal, DOS/CMD, SHELL/BASH
+
+GUI Development:
+Ubuntu, Windows 8, Mac OSX, Android, iOS 
+
+Bilingual:
+English (100/100), Spanish (40/100)
+
+EMPLOYMENT
+=================================================================================
+2006 - 2012:
+Website Development, Freelance
+
+2012 - 2014:
+Web Development, App Development, Web Scraping, Data Metrics, Information Extraction, Shell/Bash Development, Freelance
+
+AFFILIATIONS
+=================================================================================
+>> Randy Richards, Attorney
+>> Robert Froerer, Attorney
+>> LAPD CRO, Data Extraction
+>> Apollon Data Metrics, DM Agency
+>> Canonical (Ubuntu OS Development)
+
+HOBBIES
+=================================================================================
+Hexidecimal/Binary Cryptography, Writing Active Data Trees using Python, HTML Web Development, Game Development, Web Scrapping using Shell/Bash and Python, Writing Cyphertext for Leisurely Engagments.
+
+
+
+
+
