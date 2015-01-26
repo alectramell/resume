@@ -1,19 +1,19 @@
 
-Alec Tramell, DMA | Updated 2014
+Alec Tramell, DMA | Updated 2015
 ==================================================================================
 
 CONTACT
 ==================================================================================
-Phone: (801) 893-1187
+Phone: (385) 244-5470
 E-Mail: alectramell@gmail.com
 
 SUMMARY
 ==================================================================================
 Programming:
-HTML, JavaScript, CGI, Python, Java, Terminal, DOS/CMD, SHELL/BASH
+HTML, JavaScript, CGI, Python, Java, Terminal, DOS/CMD, SHELL/BASH, Repo Development (Git, Hit, etc.)
 
 GUI Development:
-Ubuntu, Windows 8, Mac OSX, Android, iOS 
+Linux, Ubuntu, Windows 8, Mac OSX, Android, iOS 
 
 Bilingual:
 English (100/100), Spanish (40/100)
@@ -23,7 +23,7 @@ EMPLOYMENT
 2006 - 2012:
 Website Development, Freelance
 
-2012 - 2014:
+2012 - 2015:
 Web Development, App Development, Web Scraping, Data Metrics, Information Extraction, Shell/Bash Development, Freelance
 
 AFFILIATIONS
