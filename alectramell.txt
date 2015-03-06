@@ -6,11 +6,12 @@ CONTACT
 ==================================================================================
 Phone: (385) 244-5470
 E-Mail: alectramell@gmail.com
+Location: Salem, OR
 
 SKILLS
 ==================================================================================
 Programming:
-HTML, Python, SHELL/BASH, Repo Development (Git, Hit, etc.)
+HTML, Python, SHELL/BASH, Web Development, Repo Development (Git, Hit, Pip, etc.)
 
 GUI Development:
 Linux, Ubuntu, Windows 8, Mac OSX
@@ -22,7 +23,7 @@ AFFILIATIONS
 
 LANGUAGES
 =================================================================================
-English (100/100), Spanish (40/100)
+English (100/100), Spanish (20/100)
 
 
 
