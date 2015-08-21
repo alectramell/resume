@@ -10,16 +10,16 @@ Location: Salem, OR
 
 SKILLS
 ==================================================================================
-Database (Data Cartography):
-Linux Systems, Source File Development, Data Tree Development, Data Extraction,
-System Data Mapping, System Data Structures, Data Archiving, Data Library
-Development
+Data Cartography (EXPERIENCE, 4 Years):
+SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, Data Tree Development,
+Data Extraction, System Data Mapping, System Data Structures, Data Archiving,
+Data Library Development
 
-Programming:
+Programming (EXPERIENCE, 5 Years):
 HTML, Python, SHELL/BASH, Terminal Command Line, RPM Development (Git, Hit, Pip,
 Rpm), Debian Development (Deb)
 
-GUI Development:
+GUI Development (EXPERIENCE, 3 Years):
 Linux, Ubuntu, Android, GTK, GNOME, Web Based GUI Architectures
 
 AFFILIATIONS
