@@ -1,30 +1,30 @@
 ==================================================================================
-Alec J. Tramell, DMA | Updated 2015
+Alec J. Tramell, DMA | Updated 2016
 ==================================================================================
 
 CONTACT
 ==================================================================================
-Phone: (801) 893-1187
+Phone: (971) 720-8023
 E-Mail: alectramell@gmail.com
 Location: Salem, OR
 
 SKILLS
 ==================================================================================
-Data Cartography (EXPERIENCE, 4 Years):
-SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, Data Tree Development,
+Data Cartography:
+SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, File Encryption, Data Tree Development,
 Data Extraction, System Data Mapping, System Data Structures, Data Archiving,
-Data Library Development
+Data Library Development.
 
-Programming (EXPERIENCE, 5 Years):
+Software Scripting:
 HTML, Python, SHELL/BASH, Terminal Command Line, RPM Development (Git, Hit, Pip,
-Rpm), Debian Development (Deb)
+Rpm), Debian Development (Deb).
 
-GUI Development (EXPERIENCE, 3 Years):
-Linux, Ubuntu, Android, GTK, GNOME, Web Based GUI Architectures
+GUI Development:
+Linux, Ubuntu, Android, GTK, GNOME, Web Based GUI Architectures, Windows CMD, MacOS Terminal Development.
 
 AFFILIATIONS
 =================================================================================
->> Apollon Data Metrics, DM Agency
+>> Apollon Data Metrics, (AGY)
 >> Canonical (Ubuntu/Linux OS Development)
 
 LANGUAGES
