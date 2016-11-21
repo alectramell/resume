@@ -1,5 +1,5 @@
 ==================================================================================
-Alec J. Tramell, DMA | Updated 2016
+Alec J. Tramell, DMA | Resume | Updated 2016
 ==================================================================================
 
 CONTACT
@@ -11,9 +11,9 @@ Location: Salem, OR
 SKILLS
 ==================================================================================
 Data Cartography:
-SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, File Encryption, Data Tree Development,
+Web Development, Web Design, Graphic Design, SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, File Encryption, Data Tree Development,
 Data Extraction, System Data Mapping, System Data Structures, Data Archiving,
-Data Library Development.
+Data Library Development, Analytics, Statisitcal Evaluations.
 
 Software Scripting:
 HTML, Python, SHELL/BASH, Terminal Command Line, RPM Development (Git, Hit, Pip,
