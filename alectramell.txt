@@ -1,35 +1,41 @@
-==================================================================================
-Alec J. Tramell, DMA | Resume | Updated 2016
-==================================================================================
 
-CONTACT
-==================================================================================
+# Alec J. Tramell, DMA | Resume | Updated 2017
+
+# CONTACT
+
 Phone: (971) 720-8023
 E-Mail: alectramell@gmail.com
-Location: Salem, OR
 
-SKILLS
-==================================================================================
-Data Cartography:
-Web Development, Web Design, Graphic Design, SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, File Encryption, Data Tree Development,
+# SKILLS
+
+Data Networking:
+Web Development (html), SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, File Encryption, Data Tree Development,
 Data Extraction, System Data Mapping, System Data Structures, Data Archiving,
-Data Library Development, Analytics, Statisitcal Evaluations.
+Data Library Development, Analytics, Statisitcal Evaluations, Library Data (multi-systems).
 
 Software Scripting:
 HTML, Python, SHELL/BASH, Terminal Command Line, RPM Development (Git, Hit, Pip,
 Rpm), Debian Development (Deb).
 
 GUI Development:
-Linux, Ubuntu, Android, GTK, GNOME, Web Based GUI Architectures, Windows CMD, MacOS Terminal Development.
+Linux, Ubuntu, Android, GTK, GNOME, Web Based GUI Architectures, Windows CMD, MacOS, Terminal Development.
 
-AFFILIATIONS
-=================================================================================
->> Apollon Data Metrics, (AGY)
->> Canonical (Ubuntu/Linux OS Development)
+# EXPERIENCE
 
-LANGUAGES
-=================================================================================
-English (100/100), Spanish (20/100)
+Linux (+10 Years)
+HTML (+10 Years)
+Shell/Bash (+10 Years)
+Multi-System Command Lines (+10 Years)
+
+# AFFILIATIONS
+
+Apollon Data Metrics, (AGY)
+Canonical (Ubuntu/Linux OS Development)
+Amazon (eBook Development)
+
+# LANGUAGES
+
+English (100/100), Spanish (30/100)
 
 
 
