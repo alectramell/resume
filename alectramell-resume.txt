@@ -6,34 +6,36 @@
 Phone: (971) 720-8023
 E-Mail: alectramell@gmail.com
 
-# SKILLS
+# SKILLSET
 
 Data Networking:
-Web Development (html), SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, File Encryption, Data Tree Development,
-Data Extraction, System Data Mapping, System Data Structures, Data Archiving,
+Web Development (html), SSH, FTP, SFTP, SMTP, Linux Systems, Source File Development, File Encryption, Data Tree Development, Meta Tagging, Data Extraction, System Data Mapping, System Data Structures, Data Archiving,
 Data Library Development, Analytics, Statisitcal Evaluations, Library Data (multi-systems).
 
-Software Scripting:
-HTML, Python, SHELL/BASH, Terminal Command Line, RPM Development (Git, Hit, Pip,
-Rpm), Debian Development (Deb).
+Software Engineering:
+HTML, JS (JavaScript), CSS, Python, SHELL/BASH, Terminal Command Line, RPM Development (Git, Hit, Pip, Debian Development (Deb).
+
+Graphic Development:
+Pixel Transition, Resolution Conversion, Noise Reduction, Photo Quality Development, Image Development (logos, banners, icons, etc.), Interface Graphic Development, Image File Converstion (from FILENAME.filetype to FILENAME.filetype).
 
 GUI Development:
 Linux, Ubuntu, Android, GTK, GNOME, Web Based GUI Architectures, Windows CMD, MacOS, Terminal Development.
 
 # EXPERIENCE
 
-Linux (+10 Years)
-HTML (+10 Years)
-Shell/Bash (+10 Years)
-Multi-System Command Lines (+10 Years)
+Linux (10+ Years)
+HTML (10+ Years)
+Shell/Bash (10+ Years)
+Multi-System Command Lines (10+ Years)
+Multi-System Interfaces (10+ Years)
 
 # AFFILIATIONS
 
 Apollon Data Metrics, (AGY)
-Canonical (Ubuntu/Linux OS Development)
-Amazon (eBook Development)
+Canonical Group LTD, (Ubuntu/Linux OS Development)
+Amazon (eBook Development, WebApp Development)
 
-# LANGUAGES
+# SPOKEN LANGUAGES
 
 English (100/100), Spanish (30/100)
 
