@@ -8,7 +8,7 @@ git add *.pdf
 git add *.docx
 git add *.txt
 git commit -m "resume"
-pit push origin master
+git push origin master
 
 clear
 
